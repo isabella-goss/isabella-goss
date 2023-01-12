@@ -1,8 +1,8 @@
 # Hi there 👋 I'm [Isabella](https://isabella-goss.github.io/portfolio/) - a technical writer based in Virginia, USA!
 
-Early-career technical writer with two years of software documentation experience. 
+I am an early-career technical writer with two years of software documentation experience. 
 
-I graduated in 2021 from North Carolina State University with a major in Graphics Communications and two minors: one in Technical and Scientific Communications and another in Science Communication. I'm the Swiss Army Knife of technical communicators: I can write succinct technical documentation, create crisp, well-defined technical drawings, and can create instructional videos and audio with ease. 
+I graduated in 2021 from North Carolina State University with a major in Graphics Communications and two minors: one in Technical and Scientific Communications and another in Science Communication. I'm the Swiss Army Knife of technical communicators: I can write succinct technical documentation, create crisp, well-defined technical drawings, and can create instructional videos, gifs, and audio with ease. 
 
 In my free time, I enjoy baking, embroidery, and spending time with my son, Theo!
 
