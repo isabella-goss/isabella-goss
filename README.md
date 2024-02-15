@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Isabella - a technical writer based in Virginia, USA!
 
-I am an early-career technical writer with three years of software documentation experience.
+I am a career technical writer with three years of software documentation experience.
 
 I graduated in 2021 from North Carolina State University with a major in Graphics Communications and two minors: one in Technical and Scientific Communications and another in Science Communication. I'm the Swiss Army Knife of technical communicators: I can write succinct technical documentation, create crisp, well-defined technical drawings, and can code documentation sites (from scratch)!
 
